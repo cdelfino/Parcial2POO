@@ -1,6 +1,7 @@
 @startuml
 class Main {
 + {static} void main(String[])
+- {static} Shape crearShapeConSetters()
 }
 abstract class Shape {
 - String color

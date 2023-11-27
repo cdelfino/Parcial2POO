@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="318b02ae-c726-431b-b278-18a53018fd48" name="Changes" comment="initial commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1701105325188</updated>
       <workItem from="1701105326658" duration="3669000" />
-      <workItem from="1701109166114" duration="281000" />
+      <workItem from="1701109166114" duration="1571000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
