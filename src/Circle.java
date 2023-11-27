@@ -42,6 +42,7 @@ public class Circle extends Shape {
     // metodo toString
     @Override
     public String toString() {
-        return "Circle [radius=" + radius + ", " + super.toString() + "]";
+        return "Circle [Shape[color=" + getColor() + ", filled=" + isFilled() + "], radius=" + radius + "]";
     }
+
 }
